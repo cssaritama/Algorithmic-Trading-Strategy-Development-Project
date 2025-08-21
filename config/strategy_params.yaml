@@ -1,0 +1,8 @@
+capital: 100000
+max_positions: 10
+top_k: 5
+prob_threshold: 0.6
+stop_loss_pct: 0.03
+take_profit_pct: 0.06
+commission_per_trade: 1.0
+slippage_pct: 0.001

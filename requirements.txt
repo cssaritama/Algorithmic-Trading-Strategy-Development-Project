@@ -1,0 +1,57 @@
+# ================================
+
+#**Author:** Carlos Stalin Saritama Atopo  
+#**Email:** cssaritama@gmail.com  
+#**Area of Specialization:** Analytics, Advanced Analytics, and Artificial Intelligence  
+#**Date:** August 2025 
+
+# AlphaTrader-ML Requirements
+# Professional setup for Algo-Trading ML Project
+# ================================
+
+# --- Core Python ---
+python==3.10.14
+
+# --- Data Manipulation & Analysis ---
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.14.1
+
+# --- Visualization ---
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.0
+
+# --- Machine Learning Models ---
+scikit-learn==1.5.1
+xgboost==2.1.1
+lightgbm==4.5.0
+tensorflow==2.17.0   # For deep learning models (e.g., LSTM)
+
+# --- Finance & Data Sources ---
+yfinance==0.2.43       # Yahoo Finance API
+alpha_vantage==3.0.0   # Alpha Vantage API (alternative data source)
+
+# --- Feature Engineering ---
+ta==0.11.0             # Technical Analysis indicators
+feature-engine==1.8.1  # Advanced feature engineering
+
+# --- Backtesting & Trading Simulation ---
+vectorbt==0.26.2       # Vectorized backtesting library
+backtrader==1.9.78.123 # Exact iterative backtesting
+
+# --- Experiment Tracking & Automation ---
+mlflow==2.16.2
+prefect==3.0.6
+joblib==1.4.2
+
+# --- Utilities ---
+tqdm==4.66.5
+pyyaml==6.0.2
+python-dotenv==1.0.1
+
+# --- Notebooks & Reports ---
+jupyter==1.1.1
+notebook==7.2.2
+papermill==2.6.0       # Notebook automation
+jupytext==1.16.1       # Notebook <-> .py sync

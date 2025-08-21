@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+
+# Data and models
+data/
+models/
+mlruns/
+outputs/
+*.parquet
+
+# Notebooks
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
