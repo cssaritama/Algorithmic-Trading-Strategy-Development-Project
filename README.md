@@ -1,5 +1,7 @@
 # AlphaTrader-ML: Machine Learning Driven Algorithmic Trading System
 
+> **Status:** Final project for the Stock Markets Analytics Zoomcamp. Completed; last updated August 2025. Not actively maintained.
+
 ## 📌 Project Overview
 
 AlphaTrader-ML is an end-to-end machine learning-powered algorithmic trading system developed as the final project for the Stock Markets Analytics Zoomcamp 2025.  
