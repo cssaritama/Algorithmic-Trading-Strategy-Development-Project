@@ -209,5 +209,4 @@ It achieves consistent profitability, manages risk effectively, and provides a f
 ## 👤 Author
 
 **Carlos Saritama**  
-📧 cssaritama@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/carlos-saritama) | [GitHub](https://github.com/cssaritama)
